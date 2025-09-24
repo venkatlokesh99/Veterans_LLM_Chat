@@ -1,0 +1,8 @@
+# Virtual environment directories
+venv/
+.venv/
+.env
+.vscode/
+__pycache__/
+*.py[cod]
+
